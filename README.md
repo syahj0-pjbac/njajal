@@ -1,5 +1,7 @@
 ## Welcome to GitHub Pages
 
+https://git-scm.com/book/id/v2/Memulai-Dasar-dasar-Git
+
 You can use the [editor on GitHub](https://github.com/syahj0-pjbac/njajal/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
